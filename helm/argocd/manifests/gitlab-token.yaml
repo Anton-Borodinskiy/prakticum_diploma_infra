@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: gitlab-token
-type: Opaque
-data:
-  token: bnpmMng3NFdRZUhfOS1UcWhleFI=
-
-
